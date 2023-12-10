@@ -32,20 +32,9 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
-
 .example-block {
-	margin: 10px ;
-	border: 1px solid #000;
-	height: 100px;
-	overflow:auto
+
 }
 .example-string {
-display: none;
-}
 
-.photo{
-	width: 100%;
-	max-width: 500px;
-	height: 500px;
 }
-
